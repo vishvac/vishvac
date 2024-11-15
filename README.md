@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishva.C</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning **Basic language**
+- 🌱 I’m currently learning **language**
 
 - 📫 How to reach me **vishvasekar28@gmail.com**
 
