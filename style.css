@@ -22,7 +22,7 @@ body {
     padding: 20px;
   }
   
-  /* Section Styles */
+  
   section {
     margin-bottom: 20px;
   }
@@ -31,7 +31,7 @@ body {
     color: #007bff;
   }
   
-  /* Button Styles */
+  
   button {
     background-color: #007bff;
     color: #fff;
@@ -45,7 +45,7 @@ body {
     background-color: #0056b3;
   }
   
-  /* Footer Styles */
+  
   footer {
     background-color: #333;
     color: #fff;
