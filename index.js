@@ -1,4 +1,3 @@
-// Fun facts about pets
 const funFacts = [
     "Dogs have a sense of smell that's 40 times stronger than humans.",
     "Cats spend 70% of their lives sleeping.",
@@ -7,7 +6,7 @@ const funFacts = [
     "Rabbits' teeth never stop growing.",
   ];
   
-  // Function to display a random fun fact
+  
   function showFunFact() {
     const randomFact = funFacts[Math.floor(Math.random() * funFacts.length)];
     document.getElementById("fact").textContent = randomFact;
